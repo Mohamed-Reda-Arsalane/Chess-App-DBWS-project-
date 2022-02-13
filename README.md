@@ -1,5 +1,5 @@
 # Chess App (Databases and Web Services Project):
-This project is a Chess web application to learn openings and play games against bots.
+This project is a Chess web application to learn openings and play games against bots.<br/>
 Link: https://group-19-chess-app.herokuapp.com/<br/>
 ## Deploy the application locally 
 ### Git
